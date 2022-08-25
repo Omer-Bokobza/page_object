@@ -1,0 +1,1 @@
+JSHandle@<div class="right-block">…</div>
